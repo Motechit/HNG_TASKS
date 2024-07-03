@@ -3,7 +3,7 @@ Cheers✨🎉
 
 # Task 1
 We were asked to write a blog article about a problem we faced while working on a project.
-You can read it here:
+You can read it here: https://medium.com/@otikomosunmola/i-must-be-the-bug-82feddfd200d
 
 # Task 2
 We are to develop a web server, host it on a free platform and connect it to an API endpoint as specified.
